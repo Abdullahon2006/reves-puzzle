@@ -35,8 +35,11 @@ Here’s a visual representation of the **Reve’s Puzzle** process:
 ## 📂 File Structure
 
 /reves-puzzle
+
 │── RevesPuzzle.java      # Java implementation of Reve’s Puzzle
+
 │── README.md             # Documentation (this file)
+
 │── reves_puzzle_diagram.png # Diagram explaining the puzzle
 
 ## 🚀 How to Run
